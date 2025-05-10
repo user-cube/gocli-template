@@ -4,7 +4,7 @@ import (
 	"runtime"
 
 	"github.com/spf13/cobra"
-	"github.com/user-cube/$PROJECT_NAME/pkg/ui"
+	"github.com/user-cube/gocli-template/pkg/ui"
 )
 
 // Version information
