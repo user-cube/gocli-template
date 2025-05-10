@@ -23,3 +23,11 @@ go.work.sum
 
 # env file
 .env
+
+# Binaries
+$PROJECT_NAME
+dist
+
+# Demo
+demo/$PROJECT_NAME.cast
+demo/$PROJECT_NAME.gif
